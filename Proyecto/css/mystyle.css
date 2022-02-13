@@ -1,0 +1,20 @@
+.header-top {background-color: red;}
+.site-logo {color: white; font-style:italic;}
+.icon-facebook, .icon-twitter, .icon-instagram {color: white;}
+.trend-entry .number{color: red;}
+.btn {background: red; border-color: red;}
+.sticky-wrapper .site-navbar {background-color: red;}
+.site-navbar .site-navigation .site-menu > li > a {color: white;}
+.historia {text-align: justify;}
+.post-meta d-flex mb-5 {margin-bottom: 2rem; }
+#video {margin-top: 2rem;}
+#landmark {padding-top: 1rem;}
+#landmark p{color: red;}
+.section-title h2{margin-bottom: 2rem;}
+#titulotabla {color: red; text-align: center; margin-top: 2em;}
+table {text-align: center;}
+.card {margin-top: 2rem; margin-bottom: 2rem;}
+#galeriafotos {margin-top: 2rem;}
+.card-body {text-align: justify;}
+.card-body span {color:red ;}
+.mb-3 {text-align: justify;}
